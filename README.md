@@ -1,7 +1,7 @@
 # Olá, eu sou o Michel Tartas! 👋
 
 ### 👨‍🏫 Educador & 🏛️ Arquiteto de Software
-Sou professor no **SENAI**, mas acima de tudo, um educador independente apaixonado por tecnologia. Tenho o privilégio de ensinar alunos dos **6 aos 64 anos**, adaptando a tecnologia para diferentes realidades e gerações.
+Sou professor, mas acima de tudo, um educador independente apaixonado por tecnologia. Tenho o privilégio de ensinar alunos, adaptando a tecnologia para diferentes realidades e gerações.
 
 Minha trajetória une a visão estratégica de **Processos Gerenciais** com a base técnica de **Análise e Desenvolvimento de Sistemas**, consolidada com uma **Pós-graduação em Arquitetura de Software**.
 
